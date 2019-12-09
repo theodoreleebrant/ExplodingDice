@@ -1,0 +1,2 @@
+# ExplodingDice
+Exploding dice roller. 
